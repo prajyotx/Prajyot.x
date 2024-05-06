@@ -24,5 +24,4 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=prajyotx&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" alt="prajyotx" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=prajyotx&theme=onedark&hide_border=true&background=00000000&stroke=80808080" alt="prajyotx" />
-<a href="https://wakatime.com/@prajyotx"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=prajyotx&show_icons=true&layout=compact&bg_color=00000000&text_color=808080&hide_border=true" alt="prajyotx" /> </a>
 </p>
